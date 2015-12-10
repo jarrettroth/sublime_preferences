@@ -1,21 +1,4 @@
 {
-	"binary_file_patterns":
-	[
-		"*/.git",
-		"*/.sass-cache",
-		"*/.temp",
-		"*/code_example_templates",
-		"*/app/bower_components",
-		"*/www",
-		"*/resources",
-		"*/plugins",
-		"*/platforms",
-		"*/node_modules",
-		"*/hooks",
-		"*/doc_assets",
-		"*/coverage",
-		"*/target/*"
-	],
 	"bold_folder_labels": true,
 	"caret_style": "phase",
 	"color_scheme": "Packages/User/SublimeLinter/Smyck (SL).tmTheme",
